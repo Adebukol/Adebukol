@@ -1,7 +1,17 @@
 - 👋 Hi, I’m @Adebukola Omowole
-- 👀 I’m interested in becoming a full stack developer
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on open source projects that can help me learn and be more confident
+- 👀 I’m a Junior Frontend Dveloper with keen interest and expertise in UI/UX
+- 🌱 I’m currently learning the following stack- Advance JavaScript and React
+- 💞️ I’m looking to collaborate on live changing projects that can help me learn and be more confident
+--    My certifications
+      Responsive web Design by Freecodecamp
+      Javascript Algorithms and Data Structure By Freecodecamp
+      Front end Development libraries by Freecodecamp
+      Backend Development and Apis by Freecodecamp
+      Foundation of UX by Coursera
+      Start Ux Process by Coursera
+      Build Wireframes and low fidelity prototype by Coursera
+      Concept of UX Research Coursera
+      Create high fidelity Prototype by Coursera
 - 📫 How to reach me adebukolaomowole@gmail.com
 
 <!---
